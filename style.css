@@ -1,0 +1,24 @@
+h1{
+    margin-bottom: 30px;
+    color: red;
+    text-decoration: underline;
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 250px;
+    font-weight: bold;
+    height: 30px;
+    background-color: yellow;
+}
+button{
+    margin-bottom: 20px;
+    height: 30px;
+    background-color:orange;
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+scroll-behavior: smooth;
+}
